@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Curriculo</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
 
+    <body>
+        <h1><font color="#80080">Olá!</font></h1>
+
+        <h2><font color="black">Meu nome é Octávio Luís Conejo de Moraes.</font></h2>
+        
+        <h3>Sou de SP-Capital, tenho 25 anos e estou no terceiro semestre de ADS. Estou cursando a matéria de Programação Web Front-End pela primeira vez.</h3>
+        
+        
+        
+        <h1><font color="#80080">Experiência</font></h1>
+        
+        <h3>Já trabalhei na área de TI como Analista de Suporte Técnico por 1 ano e 2 meses. Onde eu fazia manutenção de equipamentos (tablets e mini PCs Raspberry PI) remotamente, utilizando comandos Android e Linux respectivamente. Atendia chamados (tickets) por e-mail e telefone. Dava treinamentos para novos clientes onde explicava o uso da plataforma de gerenciamento de cardápios. Utilizava HTML para editar algumas informações dentro dos aplicativos de cardápio de alguns clientes. Ediariamente usava nosso banco de dados (MySQL).
+        
+        Já fui a trabalho para o Chile, onde exerci a função de Suporte Técnico de máquinas Arcade. Com maior foco em infra e hardware. Tirando essas passagens que tem como foco a área de TI, já trabalhei como atendente no órgão de trânsito de São Paulo (DETRAN-SP) por 2 anos e 7 meses. Além disso, trabalhei em uma editora e gráfica desde os meus 14 anos, por conta disso resolvi abrir junto à minha mãe uma empresa Editorial na qualtrabalho até hoje.</h3>
+        
+        <img src="Downloads/imagem 1.jpg" alt="Stitch de Oculos para dar Sorte!!!">
+
+        <h4><font color="black">Link Github: https://github.com/Moraesolc99</font></h4>
+        
+    </body>
+
+</html>
